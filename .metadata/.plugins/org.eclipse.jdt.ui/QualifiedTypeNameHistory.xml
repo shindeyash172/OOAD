@@ -12,4 +12,8 @@
 <fullyQualifiedTypeName name="com.aurionpro.model.Guitar"/>
 <fullyQualifiedTypeName name="com.aurionpro.model.DBLogger"/>
 <fullyQualifiedTypeName name="com.aurionpro.model.Fileloger"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Bird"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Sparrow"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Piegon"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Ostrich"/>
 </qualifiedTypeNameHistroy>
