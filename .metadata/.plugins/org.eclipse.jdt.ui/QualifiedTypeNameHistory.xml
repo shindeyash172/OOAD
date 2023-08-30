@@ -1,2 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.aurionpro.model.FestivalType"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.IFestivalInterest"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.fixedDeposit"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.holiIntrestRates"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Inventory"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.GuitarSpec"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Builder"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Type"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Wood"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Guitar"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.DBLogger"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Fileloger"/>
+</qualifiedTypeNameHistroy>
